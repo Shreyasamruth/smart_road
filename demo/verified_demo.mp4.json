@@ -1,0 +1,7 @@
+{
+  "frames": 600,
+  "source_fps": 29.980063257933473,
+  "model_sha256": "69d227235b64dcc35f29f3c22afc3b97bb2e327b8ec2b9db17d694bda672846a",
+  "confidence": 0.25,
+  "overlay": "EMA processing FPS; excludes read/write/display and text overlay"
+}
