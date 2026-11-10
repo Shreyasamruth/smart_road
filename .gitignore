@@ -1,0 +1,8 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+data/
+public_data/
+runs/
+.venv/
+demo/latest.mp4*
