@@ -1,0 +1,16 @@
+{
+  "classes": [
+    "vehicle",
+    "two_wheeler",
+    "pedestrian",
+    "pothole"
+  ],
+  "shape": [
+    1,
+    3,
+    416,
+    416
+  ],
+  "sha256": "090b6303b41e6b73bc878b36510599faf40039613cc29b267035dbcbd0618ee9",
+  "checkpoint_sha256": "86e0c529dbd6282b72b1ede4dc48bfa624f30b37bded83f60b81fb8c551fd4b6"
+}
